@@ -6,7 +6,6 @@
 ! Issues: https://github.com/nieuwoudtza/dns-blocklists/issues
 ! Syntax: AdBlock
 !
-
 ||1024tera.com^
 ||1377x.to^
 ||1fichier.com^
