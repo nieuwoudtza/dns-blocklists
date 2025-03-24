@@ -164,10 +164,7 @@
 ||getmodsapk.com^
 ||getsurge.io^
 ||gofile.io^
-||google.com/drive/^
 ||google.com/drive^
-||google.com^
-||google.com^drive
 ||grosfichiers.com^
 ||guru99.com^
 ||hblinks.pro^
