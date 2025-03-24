@@ -450,7 +450,6 @@
 ||wetransfer.com^
 ||wftpserver.com^
 ||winscp.net/eng/index.php^
-||workspace.google.com^
 ||workupload.com^
 ||wormhole.app^
 ||xd-torrent.github.io^
